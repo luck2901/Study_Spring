@@ -1,2 +1,2 @@
 # Study_Spring
-Study_Spring(inferan)
+Study_Spring
